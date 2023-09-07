@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: 'C program to print sizes of various types on the current system'
+ * Description: 'C program to print sizes'
  * Return: Always 0 (Success)
  */
 int main(void)
