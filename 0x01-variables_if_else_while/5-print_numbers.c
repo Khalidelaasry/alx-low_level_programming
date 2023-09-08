@@ -1,5 +1,5 @@
-#include <unistd.h>
-/**
+#include <stdio.h>
+/**i
  * main - Entry point.
  * Prints digits from 0 to 9 using ASCII values and putchar.
  * Return: Always 0 (Success)
