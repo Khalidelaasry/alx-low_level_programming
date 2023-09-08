@@ -5,8 +5,8 @@
  * main - Entry point
  *
  * Description: Generates a random number, extracts its last digit, and checks
- *              if it's greater than 5, equal to 0, or less than 6 but not 0.
- *              Prints the result along with the original number to the console.
+ *if it's greater than 5, equal to 0, or less than 6 but not 0.
+ *Prints the result along with the original number to the console.
  *
  * Return: Always 0 (Success)
  */
