@@ -1,11 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * This C program generates a random number and checks if it's positive, negative, or zero.
- * The 'srand' function is used to seed the random number generator with the current time.
- * The generated random number is checked and the result is printed to the console.
- */
+/* Generates random number */
+/* Checks if it's positive, negative, or zero */
+/* Prints result to console */
 int main(void)
 {
 	int n;
