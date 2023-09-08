@@ -11,7 +11,8 @@
 int main(void)
 {
 	char lowercase;
-	char uppercase;	
+	char uppercase;
+
 	for (lowercase = 'a'; lowercase <= 'z'; lowercase++)
 	{
 		putchar(lowercase);
@@ -21,6 +22,5 @@ int main(void)
 		putchar(uppercase);
 	}
 	putchar('\n');
-	
 	return 0;
 }
