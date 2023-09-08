@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * This C program prints the lowercase English alphabet in a single line
- * using a for loop. It starts from 'a' and iterates up to 'z', printing each
- * character using putchar. After printing the alphabet, it inserts a newline.
+ * This C program prints the lowercase alphabet in a single line
+ * using a for loop. It starts from 'a' to 'z', printing each
+ * character using putchar. After printing the alphabet.
  */
 int main(void)
 {
