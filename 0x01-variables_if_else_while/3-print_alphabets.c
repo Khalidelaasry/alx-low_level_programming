@@ -1,5 +1,6 @@
 #include <stdio.h>
-/*
+/**
+ * main - Entry point
  * This C program prints the lowercase and uppercase alphabet in a single
  * line using two for loops. The first loop prints letters from 'a' to 'z',
  * and se loop prints uppercase letters from 'A' to 'Z'. After printing both
