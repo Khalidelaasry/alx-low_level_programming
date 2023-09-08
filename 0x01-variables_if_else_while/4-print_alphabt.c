@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point
  *
  * Description: This C program prints the lowercase alphabet in a single line
@@ -12,6 +12,7 @@
 int main(void)
 {
 	char letter;
+	
 	for (letter = 'a'; letter <= 'z'; letter++)
 	{
 		if (letter != 'e' && letter != 'q')
