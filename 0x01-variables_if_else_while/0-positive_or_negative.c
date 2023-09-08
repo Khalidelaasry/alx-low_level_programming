@@ -1,9 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/* Generates random number */
-/* Checks if it's positive, negative, or zero */
-/* Prints result to console */
+/**
+ * main - Entry point
+ *
+ * Description: Generates a random number and determines if it's positive,
+ *              negative, or zero. Prints the result to the console.
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
 	int n;
