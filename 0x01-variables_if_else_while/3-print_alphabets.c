@@ -1,8 +1,8 @@
 #include <stdio.h>
 /*
- * This C program prints the lowercase and uppercase English alphabet in a single
- * line using two for loops. The first loop prints lowercase letters from 'a' to 'z',
- * and the second loop prints uppercase letters from 'A' to 'Z'. After printing both
+ * This C program prints the lowercase and uppercase alphabet in a single
+ * line using two for loops. The first loop prints letters from 'a' to 'z',
+ * and se loop prints uppercase letters from 'A' to 'Z'. After printing both
  * alphabets, it inserts a newline.
  *
  * Return: Always 0 (Success)
