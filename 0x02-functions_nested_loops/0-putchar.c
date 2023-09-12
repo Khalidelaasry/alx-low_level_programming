@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <unistd.h>
+#include "main.h"
 /**
  * main - Entry point
  *
@@ -9,6 +10,6 @@
  */
 int main(void)
 {
-	printf("_putchar\n");
+	_putchar(1, "_putchar\n", 9);
 	return (0);
 }
