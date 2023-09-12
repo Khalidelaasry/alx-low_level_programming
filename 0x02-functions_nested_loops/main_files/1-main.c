@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description: check the code for ALX School students
+ * Description: check the code
  *
  * Return: Always 0 (Success)
 */
