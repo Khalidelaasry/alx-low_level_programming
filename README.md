@@ -8,6 +8,8 @@ This repository contains projects and tasks related to low-level programming in 
 
 2. **0x01. C - Variables, if, else, while**: Covers basic conditional statements (if-else) and loops (while) in C.
 
+3. **0x02. C - Functions, nested loops**: Expands on C programming by introducing functions and nested loops.
+
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
