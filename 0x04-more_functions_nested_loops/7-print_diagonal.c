@@ -1,21 +1,30 @@
 #include "main.h"
 
 /**
- * print_line - Draws a straight line using the character _.
- *
- * @n: The number of _ characters to be printed.
+ * print_diagonal - check for a digit
+ * @n : number of \\ to be printed
+ * Return:void
  */
 
-void print_line(int n)
+void print_diagonal(int n)
 {
-	int i;
 
-	if (n <= 0)
-		_putchar('\n');
-	else
+	int i = 0, ii;
+
+	while (i < n && n > 0)
 	{
-		for (i = 1; i <= n; i++)
-			_putchar('_');
+		ii = 0;
+		while (ii < i)
+		{
+			_putchar(' ');
+			ii++;
+		}
+
+		_putchar(92);
 		_putchar('\n');
+		i++;
 	}
+	if (i <= 0)
+		_putchar('\n');
+
 }
