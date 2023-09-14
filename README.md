@@ -11,6 +11,8 @@ This repository contains projects and tasks related to low-level programming in 
 3. **0x02. C - Functions, nested loops**: Expands on C programming by introducing functions and nested loops.
 
 4. **0x03. C - Debugging**: Debugging exercises to practice identifying and fixing code issues.
+
+5. **0x04. C - More functions, more nested loops**: Building on the previous project, this one introduces more complex functions and nested loops.
    
 ## About ALX
 
