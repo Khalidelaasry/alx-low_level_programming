@@ -26,7 +26,7 @@ The output of the program should be: - The string Last digit of, followed by - n
 
 * 9-`print_comb.c` - prints all single-digit numbers, separated by a comma, using putchar, without using a variable of type char.
 
-### Advanced Tasks:
+### Advanced Tasks :
 * 100-`print_comb3.c` - prints all possible different combinations of two digits, separated by a comma, using putchar, without using a variable of type char.
 
 * 101-`print_comb4.c` - prints all possible different combinations of three digits, separated by a comma, using putchar, without using a variable of type char.
