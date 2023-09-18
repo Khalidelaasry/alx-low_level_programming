@@ -4,9 +4,9 @@
 /**
  * main - Entry point
  *
- * Description: This C program generates random char and prints them.
+ * Des:This C program generates random char and prints them to the console.
  * It continues generating characters and printing them until the sum of their
- * ASCII values exceeds 2645. Once the sum exceeds 2645, it prints a char
+ * ASCII values exceeds 2645. Once the sum exceeds 2645, it prints a character
  * that brings the sum to exactly 2772, and then terminates.
  *
  * Return: Always 0 (Success)
