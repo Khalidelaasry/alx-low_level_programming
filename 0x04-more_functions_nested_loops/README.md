@@ -18,7 +18,7 @@ The "0x04-more_functions_nested_loops" project is part of the ALX School Low-Lev
 10. `9-fizz_buzz.c` - Implements the Fizz-Buzz game.
 11. `10-print_triangle.c` - Prints a triangle using the `#` character.
 12. `100-prime_factor.c` - Finds and prints the largest prime factor of a given number.
-13. `101-print_number.c` - Prints an integer.
+13. `101-print_number.c` - Prints an integer .
 
 
 ## Learning Objectives
