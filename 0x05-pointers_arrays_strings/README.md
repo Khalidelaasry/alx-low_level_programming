@@ -28,7 +28,7 @@ This project delves deeper into pointers, arrays, and strings in the C programmi
 
 ## Learning Objectives
 
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+At the end of this project, you are expected to be able to explain to anyone , without the help of Google:
 
 - What are pointers and how to use them.
 - What are arrays and how to use them.
