@@ -1,9 +1,13 @@
 #include "main.h"
 /**
- * _atoi - Convert a string to an integer.
- * @s: The pointer to convert
+ * _atoi - Converts a string to an integer
+ * @s: Pointer to the input string
  *
- * Return: A integer
+ * Description: This function converts a string to an integer, taking into
+ * account positive and negative signs. It stops the conversion when a
+ * non-digit character is encountered.
+ *
+ * Return: The converted integer.
  */
 int	_atoi(char *s)
 {
