@@ -14,7 +14,7 @@ The output file will be named the same as the C file, but with the extension .s 
 
 * 4-`puts.c` - a C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line using the function puts.
 
-* 5-`printf.c` - a C program that prints exactly 'with proper grammar, but the outcome is a piece of art,', followed by a new line using the function printf.
+* 5-`printf.c` - a C program that prints exactly 'with proper grammar, but the outcome is a piece of art,' , followed by a new line using the function printf.
 
 * 6-`size.c` - a C program that prints the size of various types on the computer it is compiled and run on.
 
