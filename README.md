@@ -13,8 +13,10 @@ This repository contains projects and tasks related to low-level programming in 
 4. **0x03. C - Debugging**: Debugging exercises to practice identifying and fixing code issues.
 
 5. **0x04. C - More functions, more nested loops**: Building on the previous project, this one introduces more complex functions and nested loops.
-   
-## About ALX
+
+6. **0x05. C - Pointers, arrays and strings**: This project delves into pointers, arrays, and string manipulation in C.
+
+##About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
 
