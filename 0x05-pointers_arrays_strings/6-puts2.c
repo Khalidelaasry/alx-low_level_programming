@@ -1,5 +1,5 @@
 #include "main.h"
-/*
+/**
  * puts2 - Prints every other character of a string followed by a newline
  *
  * @str: Pointer to a string
