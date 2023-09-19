@@ -2,7 +2,7 @@
 
 ## Description
 
-This project delves deeper into pointers, arrays, and strings in the C programming language. It involves tasks that require manipulating strings, understanding pointers, and working with arrays.
+This project delves deeper into pointers, arrays, and strings in the C programming language. It involves tasks that require manipulating strings , understanding pointers, and working with arrays.
 
 ## Project Files
 
