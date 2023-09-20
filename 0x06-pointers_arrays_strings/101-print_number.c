@@ -1,28 +1,22 @@
 #include "main.h"
+
 /**
- * print_number - Prints an integer to the standard output
- *
- * @n: The integer to be printed
- *
- * Description: This recursive function prints an int to the standard output.
- * If the integer is negative,it appends a'-'sign before printing the absolute
- * value. It recursively breaks down the number and prints its digits.
+ * print_number - function that prints an integer.
+ * @n: number to print.
+ * Return: nothing.
  */
-void print_number(int n)
+
+void	print_number(int n)
 {
-	unsigned int n1;
+	unsigned int	i;
 
-	n1 = n;
-
+	i = n;
 	if (n < 0)
 	{
 		_putchar('-');
-		n1 = -n;
+		i *= -1;
 	}
-
-	if (n1 / 10 != 0)
-	{
-		print_number(n1 / 10);
-	}
-	_putchar((n1 % 10) + '0');
+	if (i / 10)
+		print_number(i / 10);
+	_putchar(i % 10 + '0');
 }
