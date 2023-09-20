@@ -10,7 +10,7 @@
  * the first letter of each word if it is preceded by a space,tab,(\n),
  * comma, semicolon, period, exclamation point, question mark,(""),
  * opening parenthesis,closing parenthesis, opening curly brace, or closing
- * curly brace. It then returns the modified string.
+ * curly brace.It then returns the modified string.
  */
 char *cap_string(char *s)
 {
