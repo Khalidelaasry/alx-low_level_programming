@@ -16,6 +16,8 @@ This repository contains projects and tasks related to low-level programming in 
 
 6. **0x05. C - Pointers, arrays and strings**: This project delves into pointers, arrays, and string manipulation in C.
 
+7. **0x06. C - More Pointers, Arrays, and Strings**: Further explores pointers, arrays, and strings in the C programming language, introducing more complex tasks, including string manipulation, array reversal, and other operations.
+
 ##About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
