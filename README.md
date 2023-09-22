@@ -22,7 +22,7 @@ This repository contains projects and tasks related to low-level programming in 
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
 
-For more information about ALX, please visit [ALX - Software Engineering Program](https://www.alxafrica.com/software-engineering).
+For more information about ALX,please visit [ALX - Software Engineering Program](https://www.alxafrica.com/software-engineering).
 
 ## Author
 
