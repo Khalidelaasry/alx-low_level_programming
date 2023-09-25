@@ -5,8 +5,8 @@
  * @a: Pointer to an array of integers
  * @n: Number of elements in the array
  *
- * Des:Thisfunction takes a pointer to an array of integers and the num of elements
- * in the array.It prints the elements separated by (,) and followed by a newline
+ * Des:Thisfunction takes a pointer to an array of integers and the 
+ * in the array.It prints the elements separated by (,) and followed by new
  * character.
  */
 void print_array(int *a, int n)
