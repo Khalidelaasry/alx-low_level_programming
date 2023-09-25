@@ -1,13 +1,14 @@
 #include "main.h"
 /**
- * print_array - Prints elements of an array followed by a newline
+ * print_array - Prints elements of an array
  *
- * @a: Pointer to an array of integers
+ * @a: Pointer to the array
  * @n: Number of elements in the array
  *
- * Des:Thisfunction takes a pointer to an array of integers and the 
- * in the array.It prints the elements separated by (,) and followed by new
- * character.
+ * Return: void
+ *
+ * Desc: This function prints the elements of an array `a` up to the
+ * index`n-1`,separating them by , and spaces. It then prints a newline.
  */
 void print_array(int *a, int n)
 {
