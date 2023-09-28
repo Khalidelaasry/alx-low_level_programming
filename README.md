@@ -19,6 +19,8 @@ This repository contains projects and tasks related to low-level programming in 
 7. **0x06. C - More Pointers, Arrays, and Strings**: Further explores pointers, arrays, and strings in the C programming language, introducing more complex tasks, including string manipulation, array reversal, and other operations.
 
 8. **0x07. C - Even more pointers, arrays and strings**: Further advanced practice with pointers, arrays, and strings.
+ 
+9. **0x08. C - Recursion**: Introduction to recursive programming in C. 
 
 ## About ALX
 
