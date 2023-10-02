@@ -1,16 +1,11 @@
 #include "main.h"
+
 /**
- * _strpbrk - Locates the first occurrence of any char in `accept` within `s`
- *
- * @s: Pointer to the string to be searched
- * @accept: Pointer to the string containing characters to search for
- *
- * Return: Pointer to the first occurrence in `s` of any character in `accept`,
- *         or NULL if no such character is found
- *
- * Desc:This function searches the string `s` for any character that
- * matches a char in the string `accept`. It returns a pointer to the first
- * occurrence of such a character, or NULL if none is found.
+ * _strpbrk - searches a string for any of a set of bytes.
+ * @s: first string.
+ * @accept: second string.
+ * Return: a pointer to the byte in s that matches one of the
+ * bytes in accept, or NULL if no such byte is found.
  */
 char *_strpbrk(char *s, char *accept)
 {
