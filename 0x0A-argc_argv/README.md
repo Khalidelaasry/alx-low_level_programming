@@ -6,23 +6,17 @@ This project focuses on understanding and working with command line arguments in
 
 ## Files
 
-1. `0-whatsmyname.c`
-   - Description: Prints the name of the program itself.
+1. `0-whatsmyname.c`- Prints the name of the program itself.
    
-2. `1-args.c`
-   - Description: Prints the number of arguments passed to the program.
+2. `1-args.c`- Prints the number of arguments passed to the program.
    
-3. `2-args.c`
-   - Description: Prints all arguments it receives, one per line.
+3. `2-args.c`- Prints all arguments it receives, one per line.
 
-4. `3-mul.c`
-   - Description: Multiplies two numbers passed to the program.
+4. `3-mul.c`- Multiplies two numbers passed to the program.
 
-5. `4-add.c`
-   - Description: Adds positive numbers passed to the program.
+5. `4-add.c`- Adds positive numbers passed to the program.
 
-6. `100-change.c`
-   - Description: Prints the minimum number of coins required to make change for a given amount.
+6. `100-change.c`- Prints the minimum number of coins required to make change for a given amount.
 
 ## Learning Objectives
 
