@@ -20,7 +20,11 @@ This repository contains projects and tasks related to low-level programming in 
 
 8. **0x07. C - Even more pointers, arrays and strings**: Further advanced practice with pointers, arrays, and strings.
  
-9. **0x08. C - Recursion**: Introduction to recursive programming in C. 
+9. **0x08. C - Recursion**: Introduction to recursive programming in C.
+    
+10. **0x09. C - Static libraries**: This project covers creating and using static libraries in C programming.
+
+11. **0x0A. C - argc, argv**: Introduction to command line arguments in C.
 
 ## About ALX
 
