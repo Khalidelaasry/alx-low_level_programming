@@ -2,41 +2,39 @@
 #include <stdlib.h>
 /**
  * main - Entry point of the program.
- * @argc: Number of command-line arguments.
- * @argv: Array of strings representing the arguments.
+ * @argc: The argument count.
+ * @argv: The argument vector.
  *
- * Return: 0 if successful, 1 if an error occurred.
+ * Return: Always 0.
  */
-int main(int argc, char *argv[])
+int main(int argc, char **argv)
 {
-	int sum = 0;
+	int a;
+	int b;
+	int res;
 
+	a = 1;
+	res = 0;
 	if (argc == 1)
-	{
 		printf("0\n");
-		return (0);
-	}
-
-	for (int i = 1; i < argc; i++)
+	else
 	{
-		int num = atoi(argv[i]);
-
-		if (num == 0 && *argv[i] != '0')
+		while (argv[a] && a <= argc)
 		{
-			printf("Error\n");
-			return (1);
+			b = 0;
+			while (argv[a][b])
+			{
+				if (argv[a][b] < '0' || argv[a][b] > '9')
+				{
+					printf("Error\n");
+					return (1);
+				}
+				b++;
+			}
+			res += atoi(argv[a]);
+			a++;
 		}
-
-		if (num < 0)
-		{
-			printf("Error\n");
-			return (1);
-		}
-
-		sum += num;
+		printf("%d\n", res);
 	}
-
-	printf("%d\n", sum);
-
 	return (0);
 }
