@@ -9,7 +9,6 @@ This project introduces the concept of static libraries in C programming. A stat
 1. `libmy.a` - The static library containing various functions.
 2. `create_static_lib.sh` - A script for creating the static library.
 
-
 ## Learning Objectives
 
 - What is a static library, how does it work, how to create one, and how to use it.
