@@ -26,6 +26,8 @@ This repository contains projects and tasks related to low-level programming in 
 
 11. **0x0A. C - argc, argv**: Introduction to command line arguments in C.
 
+12. **0x0B. C - malloc, free**: This project explores dynamic memory allocation using `malloc` and `free` functions.
+
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
