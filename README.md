@@ -30,6 +30,9 @@ This repository contains projects and tasks related to low-level programming in 
 
 13. **0x0C. C - More malloc, free**: Further practice with dynamic memory allocation.
 
+14. **0x0D. C - Preprocessor**: This project covers the usage of preprocessor directives in C.
+   
+16. **0x0E. C - Structures, typedef**: Introduction to structures and using `typedef` in C.
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
