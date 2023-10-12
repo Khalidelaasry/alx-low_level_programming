@@ -36,6 +36,8 @@ This repository contains projects and tasks related to low-level programming in 
 
 17. **0x0F. C - Function pointers**: This project explores the use of function pointers in C.
 
+18. **0x10. C - Variadic functions**: Introduction to variadic functions in C.
+
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
