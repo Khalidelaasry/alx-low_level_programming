@@ -27,7 +27,7 @@ The project `0x0F. C - Function Pointers` explores the concept of function point
 ## Learning Objectives
 
 - Understand the concept of function pointers in C.
-- Learn how to use function pointers to achieve dynamic behavior in a program.
+- Learn how to use function pointers to achieve  dynamic behavior in a program.
 - Practice writing functions that accept function pointers as parameters.
 
 ## Requirements
