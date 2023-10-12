@@ -33,6 +33,9 @@ This repository contains projects and tasks related to low-level programming in 
 14. **0x0D. C - Preprocessor**: This project covers the usage of preprocessor directives in C.
    
 16. **0x0E. C - Structures, typedef**: Introduction to structures and using `typedef` in C.
+
+17. **0x0F. C - Function pointers**: This project explores the use of function pointers in C.
+
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
