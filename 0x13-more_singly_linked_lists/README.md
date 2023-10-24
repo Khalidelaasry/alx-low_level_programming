@@ -7,7 +7,7 @@ The project `0x13. C - More Singly Linked Lists` builds on the concepts of singl
 ## Files
 
 1. `0-print_listint.c`
-   - Description: C function to print all elements of a linked list.
+   - Description: C function to  print all elements of a linked list.
 
 2. `1-listint_len.c`
    - Description: C function to get the number of elements in a linked list.
