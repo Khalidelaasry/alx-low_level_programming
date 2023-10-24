@@ -22,7 +22,7 @@ The project `0x12. C - Singly Linked Lists` involves working with singly linked 
    - Description: C function to free the memory used by a linked list.
 
 6. `100-first.c`
-   - Description: C function that prints a message before the `main` function is executed.
+   - Description: C function that prints  a message before the `main` function is executed.
 
 7. `101-hello_holberton.asm`
    - Description: Assembly code that prints "Hello, Holberton" to the console.
