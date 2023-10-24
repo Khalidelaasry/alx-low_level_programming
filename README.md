@@ -38,6 +38,10 @@ This repository contains projects and tasks related to low-level programming in 
 
 18. **0x10. C - Variadic functions**: Introduction to variadic functions in C.
 
+19. **0x12. C - Singly linked lists**: Introduction to singly linked lists in C.
+
+20. **0x13. C - More singly linked lists**: Further practice with singly linked lists.
+
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
