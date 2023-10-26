@@ -1,6 +1,6 @@
 # ALX Low-Level Programming
 
-This repository contains projects and tasks related to low-level programming in the C language. The projects focus on building a strong foundation in programming concepts, memory management, data structures, algorithms, and more.
+This repository contains  projects and tasks related to low-level programming in the C language. The projects focus on building a strong foundation in programming concepts, memory management, data structures, algorithms, and more.
 
 ## Projects
 
