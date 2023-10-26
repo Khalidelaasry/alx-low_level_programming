@@ -2,7 +2,7 @@
 
 ## Description
 
-The project `0x14. C - Bit Manipulation` focuses on bitwise operations and bit manipulation in the C programming language. It involves various tasks related to performing operations at the bit level.
+The project `0x14. C - Bit Manipulation` focuses on bitwise operations  and bit manipulation in the C programming language. It involves various tasks related to performing operations at the bit level.
 
 ## Files
 
