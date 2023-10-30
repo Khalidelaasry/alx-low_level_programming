@@ -37,7 +37,7 @@ The project `0x15. C - File I/O` focuses on file input and output operations in 
 - All files should end with a new line.
 - A `README.md` file at the root of the repo, containing a description of the repository.
 - A `README.md` file, at the root of the folder of this project, containing a description of the project.
-- Code must follow the specific style guide (e.g., Betty style for C).
+- Code must fo llow the specific style guide (e.g., Betty style for C).
 
 ## Author
 
