@@ -42,7 +42,6 @@ This repository contains  projects and tasks related to low-level programming in
 
 20. **0x13. C - More singly linked lists**: Further practice with singly linked lists.
 
-21. **0x14. C - Bit manipulation**: This project covers bitwise operators and bit manipulation in C.
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
