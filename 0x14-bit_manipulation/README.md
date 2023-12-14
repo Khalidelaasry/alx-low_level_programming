@@ -45,7 +45,7 @@ The project `0x14. C - Bit Manipulation` focuses on bitwise operations and bit m
 - All files will be compiled on Ubuntu 20.04 LTS using `gcc`, with specific options (`-Wall -Werror -Wextra -pedantic`).
 - All files should end with a new line.
 - A `README.md` file at the root of the repo, containing a description of the repository.
-- A `README.md` file, at the root of the folder of this project, containing a description of the project.
+- A `README.md` file, at  the root of the folder of this project, containing a description of the project.
 - Code must follow the specific style guide (e.g., Betty style for C).
 
 ## Usage
