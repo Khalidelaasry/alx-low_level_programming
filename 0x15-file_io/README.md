@@ -28,7 +28,7 @@ This repository contains projects and tasks related to file input and output ope
 
 - Gain proficiency in file input and output operations in C.
 - Understand the ELF file format and its header structure.
-- Learn to manipulate and copy files using C programming constructs.
+- Learn to manipulate and copy files using C programming constructs .
 
 ## Requirements
 
