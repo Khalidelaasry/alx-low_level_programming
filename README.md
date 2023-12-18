@@ -42,7 +42,9 @@ This repository contains  projects and tasks related to low-level programming in
 
 20. **0x13. C - More singly linked lists**: Further practice with singly linked lists.
 
-21. **0x14. C - Bit manipulation**: This project covers bitwise operators and bit manipulation in C..
+21. **0x14. C - Bit manipulation**: This project covers bitwise operators and bit manipulation in C.
+
+22. **0x15. C - File I/O**: Introduction to file input/output operations in C.
 
 ## About ALX
 
