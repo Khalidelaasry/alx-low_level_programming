@@ -46,6 +46,10 @@ This repository contains  projects and tasks related to low-level programming in
 
 22. **0x15. C - File I/O**: Introduction to file input/output operations in C.
 
+23. **0x17. C - Doubly linked lists**: Introduction to doubly linked lists in C.
+
+24. **0x18. C - Dynamic libraries**: This project involves creating and using dynamic libraries in C.
+
 ## About ALX
 
 ALX is a software engineering program that offers an intensive curriculum covering various aspects of software development, system engineering, and DevOps practices. It provides hands-on projects and assignments to help learners gain practical experience in these domains.
